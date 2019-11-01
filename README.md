@@ -1,5 +1,5 @@
 ## About
-Node.js compatible version of the now deprecated/archived [reddit.js](https://github.com/sahilm/reddit) repo
+Node.js compatible version of the now deprecated/archived [reddit.js](https://github.com/sahilm/reddit.js) repo
 
 ## Installation
 `yarn add reddit-authless`
